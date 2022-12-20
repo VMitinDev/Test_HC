@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hc_organization">""</string>
+    <integer name="hc_app_id">0</integer>
+    <string name="hc_secret">""</string>
+</resources>
